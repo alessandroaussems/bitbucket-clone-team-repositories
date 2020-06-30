@@ -22,4 +22,4 @@ An easy way to clone all repositories of a bitbucket team you are member of. :ar
 ```bash
     rm -rf clone.sh
 ```
-
+- Done
