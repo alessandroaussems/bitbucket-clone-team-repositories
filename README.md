@@ -18,4 +18,8 @@ An easy way to clone all repositories of a bitbucket team you are member of. :ar
     ./clone.sh alessandroaussems password123 myawesometeam
 ```
 - All the repositories will be cloned (This might take a while :hourglass_flowing_sand:)
+- Remove the script (**clone.sh**) :bomb:
+```bash
+    rm -rf clone.sh
+```
 
