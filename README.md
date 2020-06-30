@@ -5,7 +5,7 @@ An easy way to clone all repositories of a bitbucket team you are member of. :ar
 
 - Clone this repository :wink:
 ```bash
-    git clone https://github.com/alessandroaussems/noticed.git
+    git clone https://github.com/alessandroaussems/bitbucket-clone-team-repositories.git
 ```
 - Copy the script (**clone.sh**) to the directory where you want to clone the repositories (ex: /Sites) :copyright:
 - Run the script with your credentials :lock:
