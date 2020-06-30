@@ -10,7 +10,7 @@ An easy way to clone all repositories of a bitbucket team you are member of. :ar
 - Copy the script (**clone.sh**) to the directory where you want to clone the repositories (ex: /Sites) :copyright:
 - Run the script with your credentials :lock:
 
-    - username :person_with_blond_hair:
+    - username :boy:
     - password :secret:
     - teamname :family:
     
